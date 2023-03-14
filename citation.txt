@@ -1,0 +1,8 @@
+@article{REPO-355,
+    author = "Chung, Hyungjin and Ye, Jong Chul",
+    journal = "Medical Image Analysis",
+    pages = "102479",
+    publisher = "Elsevier",
+    title = "{Score-based Diffusion Models for Accelerated MRI}",
+    year = "2022"
+}
